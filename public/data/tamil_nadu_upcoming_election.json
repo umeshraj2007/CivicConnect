@@ -1,0 +1,47 @@
+{
+  "upcoming_elections_tamil_nadu": [
+    {
+      "election_type": "Tamil Nadu Legislative Assembly Election",
+      "level": "State",
+      "expected_year": 2026,
+      "expected_schedule": "April - May 2026",
+      "known_dates": {
+        "official_notification": "30 March 2026",
+        "last_date_nominations": "6 April 2026",
+        "scrutiny_nominations": "7 April 2026",
+        "last_date_withdrawal": "9 April 2026",
+        "polling_date": "23 April 2026",
+        "counting_and_results": "4 May 2026",
+        "election_completion": "6 May 2026"
+      },
+      "status": "Currently Ongoing",
+      "description": "The current ongoing state elections to elect the 234 members of the Tamil Nadu Legislative Assembly and determine the next Chief Minister."
+    },
+    {
+      "election_type": "Local Body Elections (Urban & Rural)",
+      "level": "Municipal / Panchayat",
+      "expected_year": 2027,
+      "expected_schedule": "To be announced (Likely early to mid-2027)",
+      "known_dates": {
+        "official_notification": "To be announced",
+        "polling_date": "To be announced",
+        "counting_and_results": "To be announced"
+      },
+      "status": "Upcoming",
+      "description": "Elections for city municipal corporations, municipalities, town panchayats, and village panchayats. Local bodies serve a 5-year term, with the last major urban local body polls having taken place in early 2022."
+    },
+    {
+      "election_type": "Indian General Elections (Lok Sabha)",
+      "level": "National",
+      "expected_year": 2029,
+      "expected_schedule": "April - May 2029",
+      "known_dates": {
+        "official_notification": "To be announced",
+        "polling_date": "To be announced",
+        "counting_and_results": "To be announced"
+      },
+      "status": "Upcoming",
+      "description": "National elections to elect Members of Parliament (MPs) to the Lok Sabha. Tamil Nadu will vote to elect its 39 representatives to the national parliament."
+    }
+  ]
+}

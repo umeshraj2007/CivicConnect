@@ -1,0 +1,130 @@
+{
+  "political_parties_details": [
+    {
+      "party_name": "Dravida Munnetra Kazhagam",
+      "abbreviation": "DMK",
+      "founder": "C. N. Annadurai",
+      "creation_date": "17 September 1949",
+      "election_symbol": "Rising Sun",
+      "core_ideology_and_manifesto": "Social justice, Dravidian nationalism, state autonomy, rationalism, and a two-language policy. The party heavily focuses on state rights, welfare schemes, and opposing the imposition of Hindi.",
+      "relevant_details": "It is one of the two major political forces in Tamil Nadu. The party split from the Dravidar Kazhagam headed by Periyar E. V. Ramasamy."
+    },
+    {
+      "party_name": "All India Anna Dravida Munnetra Kazhagam",
+      "abbreviation": "AIADMK",
+      "founder": "M. G. Ramachandran",
+      "creation_date": "17 October 1972",
+      "election_symbol": "Two Leaves",
+      "core_ideology_and_manifesto": "Dravidianism, social justice, welfarism, and populism. The party is known for implementing massive public welfare programs and subsidies (such as the Amma Canteens and free laptops for students).",
+      "relevant_details": "Formed as a breakaway faction from the DMK, it is the other major political force in Tamil Nadu. It saw massive expansion under the leadership of M.G. Ramachandran and later J. Jayalalithaa."
+    },
+    {
+      "party_name": "Tamizhaga Vettri Kazhagam",
+      "abbreviation": "TVK",
+      "founder": "C. Joseph Vijay",
+      "creation_date": "2 February 2024",
+      "election_symbol": "Whistle",
+      "core_ideology_and_manifesto": "Secular social justice, egalitarianism, two-language policy, and a corruption-free, transparent administration. Their core slogan is 'All are equal by birth'.",
+      "relevant_details": "A newly formed party by popular actor Vijay that actively positions itself against both religious sectarianism and political corruption. It has positioned itself as a centre-left alternative in the 2026 assembly elections."
+    },
+    {
+      "party_name": "Naam Tamilar Katchi",
+      "abbreviation": "NTK",
+      "founder": "Seeman",
+      "creation_date": "18 May 2010",
+      "election_symbol": "Ganna Kisan (Farmer with Sugarcane)",
+      "core_ideology_and_manifesto": "Tamil nationalism, environmentalism, and anti-corruption. Their recent manifesto emphasizes decentralized governance (proposing multiple capitals for Tamil Nadu), anti-drug measures, and policies centered on agriculture and Tamil identity.",
+      "relevant_details": "The party considers itself a revival of S. P. Adithanar's 'We Tamils' movement. It is known for contesting elections independently without alliances and consistently allocating 50% of its seats to women candidates."
+    },
+    {
+      "party_name": "Pattali Makkal Katchi",
+      "abbreviation": "PMK",
+      "founder": "S. Ramadoss",
+      "creation_date": "16 July 1989",
+      "election_symbol": "Mango",
+      "core_ideology_and_manifesto": "Social democracy, populism, and advocacy for backward class rights. Originally emerged to demand Most Backward Caste (MBC) status and political representation for the Vanniyar community.",
+      "relevant_details": "The party grew out of the Vanniyar Sangam movement. Recently in 2025/2026, the party has experienced internal leadership disputes between founder S. Ramadoss and his son Anbumani Ramadoss."
+    },
+    {
+      "party_name": "Viduthalai Chiruthaigal Katchi",
+      "abbreviation": "VCK",
+      "founder": "Thol. Thirumavalavan",
+      "creation_date": "1990 (Originated as DPI in 1982)",
+      "election_symbol": "Pot",
+      "core_ideology_and_manifesto": "Anti-casteism, Dalit rights, social equality, and Tamil nationalism. The party strongly advocates for the annihilation of the caste system and the protection of marginalized communities.",
+      "relevant_details": "Originally the Dalit Panthers of India (DPI), it is a major political voice for the Scheduled Castes in Tamil Nadu."
+    },
+    {
+      "party_name": "Bharatiya Janata Party (Tamil Nadu Unit)",
+      "abbreviation": "BJP",
+      "founder": "Syama Prasad Mukherjee (BJS precursor); Atal Bihari Vajpayee, L. K. Advani",
+      "creation_date": "6 April 1980 (National)",
+      "election_symbol": "Lotus",
+      "core_ideology_and_manifesto": "Cultural nationalism, Hindutva, conservatism, and integral humanism. In Tamil Nadu, the party focuses on national integration, spiritual heritage, and central government welfare schemes.",
+      "relevant_details": "While a dominant national party, it has historically operated as a smaller player in Tamil Nadu, aiming to build a third front alternative to the Dravidian majors."
+    },
+    {
+      "party_name": "Indian National Congress (Tamil Nadu Congress Committee)",
+      "abbreviation": "INC (TNCC)",
+      "founder": "Allan Octavian Hume",
+      "creation_date": "28 December 1885 (National)",
+      "election_symbol": "Hand",
+      "core_ideology_and_manifesto": "Centrism, secularism, social democracy, and liberal nationalism. Focuses on inclusive growth, welfare, and protecting constitutional values.",
+      "relevant_details": "The TNCC governed Tamil Nadu continuously after independence until 1967. Since then, it has primarily contested elections in alliance with either the DMK or AIADMK."
+    },
+    {
+      "party_name": "Desiya Murpokku Dravida Kazhagam",
+      "abbreviation": "DMDK",
+      "founder": "Vijayakanth",
+      "creation_date": "14 September 2005",
+      "election_symbol": "Murasu (Drum)",
+      "core_ideology_and_manifesto": "Centrism, anti-corruption, and welfarism. The party aims to provide a clean, corruption-free alternative to the established Dravidian parties.",
+      "relevant_details": "Founded by the late actor Vijayakanth, the party peaked as the principal opposition party in the Tamil Nadu Legislative Assembly in 2011."
+    },
+    {
+      "party_name": "Marumalarchi Dravida Munnetra Kazhagam",
+      "abbreviation": "MDMK",
+      "founder": "Vaiko",
+      "creation_date": "6 May 1994",
+      "election_symbol": "Top (Bambaram)",
+      "core_ideology_and_manifesto": "Dravidianism, state autonomy, and peaceful resolution of the Tamil Eelam issue. Strongly opposes the privatization of public sectors and advocates for state-level independence on policy matters.",
+      "relevant_details": "Formed after Vaiko was expelled from the DMK. The party is known for its strong ideological stances and oratorical campaigns."
+    },
+    {
+      "party_name": "Makkal Needhi Maiam",
+      "abbreviation": "MNM",
+      "founder": "Kamal Haasan",
+      "creation_date": "21 February 2018",
+      "election_symbol": "Battery Torch",
+      "core_ideology_and_manifesto": "Centrism, rationalism, and anti-corruption. Focuses on improving rural infrastructure, digitization of government services, and environmental protection.",
+      "relevant_details": "Founded by actor Kamal Haasan, the party focuses heavily on urban governance and educated voter demographics."
+    },
+    {
+      "party_name": "Amma Makkal Munnettra Kazagam",
+      "abbreviation": "AMMK",
+      "founder": "T. T. V. Dhinakaran",
+      "creation_date": "15 March 2018",
+      "election_symbol": "Pressure Cooker",
+      "core_ideology_and_manifesto": "Dravidianism and welfarism. Primarily aims to reclaim and continue the political legacy of late AIADMK leader J. Jayalalithaa.",
+      "relevant_details": "Emerged as a breakaway faction from the AIADMK following the death of J. Jayalalithaa and subsequent internal leadership struggles."
+    },
+    {
+      "party_name": "Communist Party of India (Marxist)",
+      "abbreviation": "CPI(M)",
+      "founder": "E. M. S. Namboodiripad, Jyoti Basu (among others)",
+      "creation_date": "7 November 1964",
+      "election_symbol": "Hammer, Sickle and Star",
+      "core_ideology_and_manifesto": "Marxism-Leninism, communism, and anti-capitalism. Focuses on the rights of the working class, trade unionism, and land reforms.",
+      "relevant_details": "A national party that split from the CPI in 1964. It has a dedicated cadre base in Tamil Nadu, particularly among industrial and agricultural workers."
+    },
+    {
+      "party_name": "Communist Party of India",
+      "abbreviation": "CPI",
+      "founder": "M. N. Roy, Abani Mukherji (among others)",
+      "creation_date": "26 December 1925",
+      "election_symbol": "Ears of Corn and Sickle",
+      "core_ideology_and_manifesto": "Marxism-Leninism, socialism. Advocates for secularism, democratic rights, and economic equality.",
+      "relevant_details": "One of the oldest political parties in India, maintaining a presence in Tamil Nadu through historical trade union movements and alliances."
+    }
+  ]
+}

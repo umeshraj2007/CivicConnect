@@ -1,0 +1,108 @@
+{
+  "chief_ministers_tamil_nadu": [
+    {
+      "name": "O. P. Ramaswamy Reddiyar",
+      "gender": "Male",
+      "dob": "1895-02-01",
+      "party_name": "Indian National Congress",
+      "years_in_office": "1947–1949",
+      "notable_decision": "Passed the Madras Temple Entry Authorization Act 1947, giving Dalits and other marginalized communities the legal right to enter Hindu temples."
+    },
+    {
+      "name": "P. S. Kumaraswamy Raja",
+      "gender": "Male",
+      "dob": "1898-07-08",
+      "party_name": "Indian National Congress",
+      "years_in_office": "1949–1952",
+      "notable_decision": "Initiated the historic separation of the Judiciary from the Executive branch in the state's administration."
+    },
+    {
+      "name": "C. Rajagopalachari",
+      "gender": "Male",
+      "dob": "1878-12-10",
+      "party_name": "Indian National Congress",
+      "years_in_office": "1952–1954",
+      "notable_decision": "Removed controls on food grains to successfully curb the black market and alleviate food scarcity issues."
+    },
+    {
+      "name": "K. Kamaraj",
+      "gender": "Male",
+      "dob": "1903-07-15",
+      "party_name": "Indian National Congress",
+      "years_in_office": "1954–1963",
+      "notable_decision": "Introduced the revolutionary free Mid-Day Meal Scheme in government schools, drastically increasing school enrollment and reducing dropout rates among the poor."
+    },
+    {
+      "name": "M. Bhakthavatsalam",
+      "gender": "Male",
+      "dob": "1897-10-09",
+      "party_name": "Indian National Congress",
+      "years_in_office": "1963–1967",
+      "notable_decision": "Spearheaded the establishment of several vital industrial estates and major irrigation projects across the state."
+    },
+    {
+      "name": "C. N. Annadurai",
+      "gender": "Male",
+      "dob": "1909-09-15",
+      "party_name": "Dravida Munnetra Kazhagam (DMK)",
+      "years_in_office": "1967–1969",
+      "notable_decision": "Officially renamed 'Madras State' to 'Tamil Nadu' and legalized 'Self-Respect Marriages' which did not require a Brahmin priest to officiate."
+    },
+    {
+      "name": "M. Karunanidhi",
+      "gender": "Male",
+      "dob": "1924-06-03",
+      "party_name": "Dravida Munnetra Kazhagam (DMK)",
+      "years_in_office": "1969–1976, 1989–1991, 1996–2001, 2006–2011",
+      "notable_decision": "Established the 'Uzhavar Santhai' (Farmers' Market) to eliminate middlemen, and introduced free electricity for agricultural farmers."
+    },
+    {
+      "name": "M. G. Ramachandran",
+      "gender": "Male",
+      "dob": "1917-01-17",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+      "years_in_office": "1977–1987",
+      "notable_decision": "Upgraded the Mid-Day Meal Scheme into the 'Nutritious Meal Scheme', significantly improving child health and continuing to boost rural literacy."
+    },
+    {
+      "name": "Janaki Ramachandran",
+      "gender": "Female",
+      "dob": "1923-11-30",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+      "years_in_office": "1988 (24 days)",
+      "notable_decision": "Ensured the continuity of the state government administration and welfare schemes immediately following M. G. Ramachandran's sudden passing."
+    },
+    {
+      "name": "J. Jayalalithaa",
+      "gender": "Female",
+      "dob": "1948-02-24",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+      "years_in_office": "1991–1996, 2001, 2002–2006, 2011–2014, 2015–2016",
+      "notable_decision": "Introduced the 'Cradle Baby Scheme' to combat female infanticide and launched the highly successful subsidized 'Amma Canteens'."
+    },
+    {
+      "name": "O. Panneerselvam",
+      "gender": "Male",
+      "dob": "1951-01-14",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+      "years_in_office": "2001–2002, 2014–2015, 2016–2017",
+      "notable_decision": "Passed an emergency ordinance in 2017 to legalize and ensure the uninterrupted conduct of the traditional 'Jallikattu' sport after widespread statewide protests."
+    },
+    {
+      "name": "Edappadi K. Palaniswami",
+      "gender": "Male",
+      "dob": "1954-05-12",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+      "years_in_office": "2017–2021",
+      "notable_decision": "Implemented a 7.5% horizontal reservation in medical colleges for government school students who clear the NEET exam."
+    },
+    {
+      "name": "M. K. Stalin",
+      "gender": "Male",
+      "dob": "1953-03-01",
+      "party_name": "Dravida Munnetra Kazhagam (DMK)",
+      "years_in_office": "2021–Present",
+      "notable_decision": "Launched the 'Kalaignar Magalir Urimai Thittam', a scheme providing a monthly financial assistance of ₹1,000 to eligible women heads of families."
+    }
+  ]
+}

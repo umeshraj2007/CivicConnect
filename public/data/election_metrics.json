@@ -1,0 +1,152 @@
+[
+  {
+    "sector": "Agriculture & Water",
+    "topic": "Farmer Welfare & Policy",
+    "ntk": [
+      {
+        "tag": "AGRICULTURE",
+        "text": [
+          "Declaration of agriculture as a state profession, promotion of organic farming, and ensuring fair pricing and welfare for farmers."
+        ]
+      },
+      {
+        "tag": "FARMER WELFARE",
+        "text": [
+          "Provision of financial security, crop insurance, and pension schemes for farmers over sixty years of age."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Agriculture & Water",
+    "topic": "Water Management",
+    "ntk": [
+      {
+        "tag": "WATER MANAGEMENT",
+        "text": [
+          "Strategic management of water bodies, increasing storage capacity, rejuvenating rivers, and achieving state-wide water self-sufficiency."
+        ]
+      },
+      {
+        "tag": "DRINKING WATER",
+        "text": [
+          "Provision of pure drinking water as a basic right for all citizens for free, including a ban on the commercial sale of water."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Economy & Infrastructure",
+    "topic": "General",
+    "ntk": [
+      {
+        "tag": "TRADER WELFARE",
+        "text": [
+          "Revitalizing trader welfare boards, providing interest-free loans, and protecting small traders from multinational dominance."
+        ]
+      },
+      {
+        "tag": "PUBLIC TRANSPORT",
+        "text": [
+          "Improving public transport infrastructure, safety standards, and connectivity across the state."
+        ]
+      },
+      {
+        "tag": "ECONOMIC SELF-SUFFICIENCY",
+        "text": [
+          "Economic vision based on self-sufficiency, localized resource management, and regional sustainability."
+        ]
+      },
+      {
+        "tag": "RURAL INDUSTRIALIZATION",
+        "text": [
+          "Focus on industrial development in rural and semi-urban areas to prevent urban migration."
+        ]
+      },
+      {
+        "tag": "SUSTAINABLE INDUSTRY",
+        "text": [
+          "Promotion of eco-friendly and sustainable industries aligned with environmental protection."
+        ]
+      },
+      {
+        "tag": "IT EMPLOYEE WELFARE",
+        "text": [
+          "Protection of the rights, job security, and working conditions of employees in the information technology sector."
+        ]
+      },
+      {
+        "tag": "RENEWABLE ENERGY",
+        "text": [
+          "Shifting the state energy grid towards renewable sources such as solar and wind power."
+        ]
+      },
+      {
+        "tag": "TOURISM",
+        "text": [
+          "Development of spiritual, historical, and eco-tourism while preserving local culture and traditions."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Education",
+    "topic": "Education Policy",
+    "ntk": [
+      {
+        "tag": "EDUCATION REFORM",
+        "text": [
+          "Reform of the education system to prioritize mother-tongue instruction and skill-based, vocational learning."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Environment & Ecology",
+    "topic": "Environmental Conservation & Sustainability",
+    "ntk": [
+      {
+        "tag": "AFFORESTATION",
+        "text": [
+          "Environmental conservation initiatives and implementation of massive afforestation programs across the state."
+        ]
+      },
+      {
+        "tag": "FOREST CONSERVATION",
+        "text": [
+          "Expansion of forest cover and protection of biodiversity through the planting of indigenous tree species."
+        ]
+      },
+      {
+        "tag": "ANIMAL WELFARE",
+        "text": [
+          "Policies ensuring the rights and protection of wildlife and domestic animals."
+        ]
+      },
+      {
+        "tag": "WASTE MANAGEMENT",
+        "text": [
+          "Implementation of scientific and sustainable methods for solid and liquid waste disposal."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Environment & Ecology",
+    "topic": "Resource Protection & Climate Policy",
+    "ntk": [
+      {
+        "tag": "CLIMATE CHANGE",
+        "text": [
+          "Strategies to mitigate and adapt to the global impacts of climate change within the regional context."
+        ]
+      },
+      {
+        "tag": "MINERAL PROTECTION",
+        "text": [
+          "Strict regulation of sand mining and mineral extractions to prevent ecological damage and resource depletion."
+        ]
+      }
+    ]
+  }
+]

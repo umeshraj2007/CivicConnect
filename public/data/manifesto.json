@@ -1,0 +1,746 @@
+[
+  {
+    "sector": "Agriculture & Water",
+    "topic": "Farmer Welfare & Policy",
+    "spa": [
+      {
+        "tag": "FARMER SUPPORT",
+        "text": [
+          "Provision of free modern electric pump sets to over 20 lakh farmers, and increasing the procurement price to ₹3,500 per quintal for paddy and ₹4,500 per tonne for sugarcane."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "FINANCIAL AID",
+        "text": [
+          "One-time grant of ₹50,000 to small and marginal farmers, and supplementing the PM Kisan Samman Nidhi with additional funds."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "LOAN WAIVER & MSP",
+        "text": [
+          "Full waiver of cooperative crop loans for farmers with less than five acres, and establishing Minimum Support Prices of ₹3,500 per quintal for paddy and ₹4,500 for sugarcane."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "AGRICULTURE",
+        "text": [
+          "Declaration of agriculture as a state profession, promotion of organic farming, and ensuring fair pricing and welfare for farmers."
+        ]
+      },
+      {
+        "tag": "FARMER WELFARE",
+        "text": [
+          "Provision of financial security, crop insurance, and pension schemes for farmers over sixty years of age."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Agriculture & Water",
+    "topic": "Water Management",
+    "spa": [
+      {
+        "tag": "IRRIGATION",
+        "text": [
+          "Desilting 10,500 km of C and D category irrigation canals in the Cauvery delta districts and 5,000 km in other districts."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "STORAGE INFRASTRUCTURE",
+        "text": [
+          "Development of comprehensive storage infrastructure including panchayat-level small steel silos and cold storage facilities to reduce post-harvest water and crop loss."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "DRINKING WATER",
+        "text": [
+          "Guaranteeing 100 per cent piped drinking water access to all households and expanding rural water infrastructure."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "WATER MANAGEMENT",
+        "text": [
+          "Strategic management of water bodies, increasing storage capacity, rejuvenating rivers, and achieving state-wide water self-sufficiency."
+        ]
+      },
+      {
+        "tag": "DRINKING WATER",
+        "text": [
+          "Provision of pure drinking water as a basic right for all citizens for free, including a ban on the commercial sale of water."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Economy & Infrastructure",
+    "topic": "General",
+    "spa": [
+      {
+        "tag": "INFRASTRUCTURE & TECH",
+        "text": [
+          "Investment target of ₹18 lakh crore for a $120 billion economy, establishment of Neo Tidel Parks to create 50 lakh tech jobs, and the 'Chennai Super-6' urban transformation plan."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "CONNECTIVITY & MSME",
+        "text": [
+          "Expansion of High-Speed Rail Corridors (e.g., Chennai-Bengaluru) and providing interest-free loans of up to ₹50 lakh for women-led cooperatives and MSMEs."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "AI ECONOMY & JOBS",
+        "text": [
+          "Vision to build a $1.5 trillion economy by 2036, establishing an AI Ministry, AI City, and collateral-free business launch loans up to ₹25 lakh for young entrepreneurs."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "TRADER WELFARE",
+        "text": [
+          "Revitalizing trader welfare boards, providing interest-free loans, and protecting small traders from multinational dominance."
+        ]
+      },
+      {
+        "tag": "PUBLIC TRANSPORT",
+        "text": [
+          "Improving public transport infrastructure, safety standards, and connectivity across the state."
+        ]
+      },
+      {
+        "tag": "ECONOMIC SELF-SUFFICIENCY",
+        "text": [
+          "Economic vision based on self-sufficiency, localized resource management, and regional sustainability."
+        ]
+      },
+      {
+        "tag": "RURAL INDUSTRIALIZATION",
+        "text": [
+          "Focus on industrial development in rural and semi-urban areas to prevent urban migration."
+        ]
+      },
+      {
+        "tag": "SUSTAINABLE INDUSTRY",
+        "text": [
+          "Promotion of eco-friendly and sustainable industries aligned with environmental protection."
+        ]
+      },
+      {
+        "tag": "IT EMPLOYEE WELFARE",
+        "text": [
+          "Protection of the rights, job security, and working conditions of employees in the information technology sector."
+        ]
+      },
+      {
+        "tag": "RENEWABLE ENERGY",
+        "text": [
+          "Shifting the state energy grid towards renewable sources such as solar and wind power."
+        ]
+      },
+      {
+        "tag": "TOURISM",
+        "text": [
+          "Development of spiritual, historical, and eco-tourism while preserving local culture and traditions."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Education",
+    "topic": "Education Policy",
+    "spa": [
+      {
+        "tag": "STUDENT WELFARE",
+        "text": [
+          "Expansion of the Chief Minister's Breakfast Scheme up to Class 8 and distribution of laptops to 35 lakh higher education students."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "SAFETY INFRASTRUCTURE",
+        "text": [
+          "Ensuring 100 percent blind-spot-free CCTV coverage across all schools and universities to ensure student safety."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "REFORM & ACCESS",
+        "text": [
+          "Establishment of 100 'Kamarajar Schools of Excellence', providing collateral-free education loans up to ₹20 lakh, and free AI-powered competitive exam coaching."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "EDUCATION REFORM",
+        "text": [
+          "Reform of the education system to prioritize mother-tongue instruction and skill-based, vocational learning."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Environment & Ecology",
+    "topic": "Environmental Conservation & Sustainability",
+    "spa": [
+      {
+        "tag": "URBAN SUSTAINABILITY",
+        "text": [
+          "Focus on transforming Chennai and other major hubs into global cities with sustainable housing and upgraded public amenities."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "RURAL ECOSYSTEMS",
+        "text": [
+          "Support for animal husbandry, beekeeping, and poultry farming to ensure sustainable rural ecosystems and livelihoods."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "SUSTAINABLE ENERGY",
+        "text": [
+          "Providing 200 units of free electricity per household and supplying free solar pump sets to farmers."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "AFFORESTATION",
+        "text": [
+          "Environmental conservation initiatives and implementation of massive afforestation programs across the state."
+        ]
+      },
+      {
+        "tag": "FOREST CONSERVATION",
+        "text": [
+          "Expansion of forest cover and protection of biodiversity through the planting of indigenous tree species."
+        ]
+      },
+      {
+        "tag": "ANIMAL WELFARE",
+        "text": [
+          "Policies ensuring the rights and protection of wildlife and domestic animals."
+        ]
+      },
+      {
+        "tag": "WASTE MANAGEMENT",
+        "text": [
+          "Implementation of scientific and sustainable methods for solid and liquid waste disposal."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Environment & Ecology",
+    "topic": "Resource Protection & Climate Policy",
+    "spa": [
+      {
+        "tag": "COASTAL DEVELOPMENT",
+        "text": [
+          "Upgrading ports at Nagapattinam and Cuddalore to world-class standards while balancing coastal economic growth."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "MARINE PROTECTION",
+        "text": [
+          "Increasing fishing ban assistance from ₹8,000 to ₹12,000 per year and lean period allowance to ₹8,000 to protect marine resources and workers."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "FISHERIES PROTECTION",
+        "text": [
+          "Guaranteeing the country's first statutory Minimum Support Price (MSP) for fish and providing ₹27,000 as seasonal relief to fishermen."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "CLIMATE CHANGE",
+        "text": [
+          "Strategies to mitigate and adapt to the global impacts of climate change within the regional context."
+        ]
+      },
+      {
+        "tag": "MINERAL PROTECTION",
+        "text": [
+          "Strict regulation of sand mining and mineral extractions to prevent ecological damage and resource depletion."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Governance & Administration",
+    "topic": "Systemic & Political Reform",
+    "spa": [
+      {
+        "tag": "E-GOVERNANCE",
+        "text": [
+          "Implementation of a unified digital platform for access to government services and prioritising citizen requests."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "LAW & ORDER REFORM",
+        "text": [
+          "Streamlining zero-FIR reporting and establishing special fast-track courts for heinous cases to strengthen the justice framework."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "SERVICE GUARANTEE",
+        "text": [
+          "Doorstep delivery of government schemes, legally mandated timeframes for essential public services, and allocating 10% of district budgets based on citizen inputs."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "DECENTRALIZATION",
+        "text": [
+          "Decentralization of the state capital from Chennai to five strategic regional capitals to balance growth and administrative efficiency."
+        ]
+      },
+      {
+        "tag": "POLITICAL REFORMS",
+        "text": [
+          "Comprehensive structural and political reforms, including individual constituencies for women and reorganization of parliamentary seats."
+        ]
+      },
+      {
+        "tag": "LEADERSHIP",
+        "text": [
+          "Governance philosophy emphasizing firm, disciplined leadership solely focused on citizen welfare and the future of the state."
+        ]
+      },
+      {
+        "tag": "LEGISLATIVE OPPOSITION",
+        "text": [
+          "Listing specific state and central legislations that the party aims to abolish, reform, or resist."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Governance & Administration",
+    "topic": "Ethics, Transparency & Justice",
+    "spa": [
+      {
+        "tag": "PARTICIPATORY GOVERNANCE",
+        "text": [
+          "Enhancing civic engagement by prioritising citizen requests through direct participatory mechanisms."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "ANTI-CORRUPTION",
+        "text": [
+          "Promising an end to the 'dynastic, money, and kickbacks' culture by ensuring transparent governance and optimal fund utilisation."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "HONEST ADMINISTRATION",
+        "text": [
+          "Ensuring a corruption-free administration with a 21-day guarantee for business licences and dedicating a special assembly day for citizen issues."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "ANTI-CORRUPTION",
+        "text": [
+          "Enactment of strict anti-corruption laws and implementation of transparent administrative practices."
+        ]
+      },
+      {
+        "tag": "TRANSPARENCY",
+        "text": [
+          "Ensuring all government data, budgets, and administrative processes are accessible to the public."
+        ]
+      },
+      {
+        "tag": "MEDIA ETHICS",
+        "text": [
+          "Ensuring ethical journalism and maintaining fair, unbiased broadcasting standards in the state."
+        ]
+      },
+      {
+        "tag": "JUDICIARY REFORM",
+        "text": [
+          "Expediting legal processes and establishing Tamil as the primary language of the court system."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Governance & Administration",
+    "topic": "Law Enforcement & Rights",
+    "spa": [
+      {
+        "tag": "CHILD PROTECTION",
+        "text": [
+          "Enacting a special Act for the protection of children to create a 'child welfare State'."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "WOMEN'S SAFETY",
+        "text": [
+          "Introduction of robust victim-witness protection mechanisms and optimized utilization of the Nirbhaya Fund."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "EQUAL RIGHTS",
+        "text": [
+          "Advocating for equal and dignified life for all citizens, alongside a massive drive for a 'drug-free Tamil Nadu'."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "POLICE REFORM",
+        "text": [
+          "Reforming the police force into a service-oriented body focused on human rights and citizen protection."
+        ]
+      },
+      {
+        "tag": "TAMIL IDENTITY",
+        "text": [
+          "Urgent social and political changes required for the survival and flourishing of Tamil identity."
+        ]
+      },
+      {
+        "tag": "NATIVE RIGHTS",
+        "text": [
+          "Upholding the rights of native people over their land, natural resources, and local governance."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Health & Social Welfare",
+    "topic": "Public Health & Safety",
+    "spa": [
+      {
+        "tag": "HEALTHCARE EXPANSION",
+        "text": [
+          "Doubling dialysis machines across all government hospitals and increasing the health insurance coverage limit to ₹10 lakh."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "PUBLIC SAFETY",
+        "text": [
+          "Tackling the proliferation of drug trafficking and ensuring zero blind-spot zones in public transport for citizen safety."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "UNIVERSAL HEALTH",
+        "text": [
+          "Implementing universal health insurance of up to ₹25 lakh per family, free annual check-ups, and affordable medicines."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "HEALTHCARE",
+        "text": [
+          "Revamping the healthcare system to provide free medicine and treatment, prioritizing Siddha and traditional Tamil medicine."
+        ]
+      },
+      {
+        "tag": "PROHIBITION",
+        "text": [
+          "Phased prohibition of alcohol within one year and strict bans on other intoxicants such as tobacco and drugs."
+        ]
+      },
+      {
+        "tag": "SANITATION WORKERS WELFARE",
+        "text": [
+          "Welfare policies for sanitation workers, officially acknowledging them as essential engineers for public health."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Health & Social Welfare",
+    "topic": "Vulnerable Group Advocacy",
+    "spa": [
+      {
+        "tag": "WOMEN & ELDERLY",
+        "text": [
+          "Increasing monthly assistance for women heads of families to ₹2,000, raising elderly pensions to ₹2,000, and providing ₹8,000 family coupons."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "WOMEN EMPOWERMENT",
+        "text": [
+          "Providing ₹2,000 monthly assistance to women heads, a one-time ₹10,000 household grant, 3 free LPG cylinders annually, and 25,000 e-scooters."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "WELFARE GUARANTEES",
+        "text": [
+          "Providing ₹2,500 monthly assistance for women, 6 free LPG cylinders annually, 8 grams of gold for brides, and ₹3,000 monthly pensions for the elderly and differently-abled."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "WOMEN'S EMPOWERMENT",
+        "text": [
+          "Implementation of 50% job reservation for women, eradication of female infanticide, and protection of women's safety and dignity."
+        ]
+      },
+      {
+        "tag": "DIFFERENTLY ABLED WELFARE",
+        "text": [
+          "Establishment of a dedicated ministry and infrastructure for the differently abled, including 5% reservation in local body positions."
+        ]
+      },
+      {
+        "tag": "CHILD WELFARE",
+        "text": [
+          "Welfare of orphaned and vulnerable children, ensuring access to education and protection from child labor."
+        ]
+      },
+      {
+        "tag": "ELDERLY CARE",
+        "text": [
+          "Establishment of dignified living spaces for abandoned elderly citizens with healthcare and community engagement programs."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Health & Social Welfare",
+    "topic": "Labor & Community Welfare",
+    "spa": [
+      {
+        "tag": "WORKFORCE SUPPORT",
+        "text": [
+          "Establishing 1,000 childcare centres in industrial areas to support working mothers and distributing milking machines to 3,000 cooperatives."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "RURAL EMPLOYMENT",
+        "text": [
+          "Strengthening rural livelihoods through grants for animal husbandry and targeted support for agricultural allied sectors."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "YOUTH & UNEMPLOYED",
+        "text": [
+          "Providing monthly unemployment assistance of ₹4,000 for graduates, ₹2,500 for diploma holders, and 5 lakh stipendiary internships annually."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "SPORTS",
+        "text": [
+          "Promotion of sports and traditional physical arts through world-class sports universities and local training infrastructure."
+        ]
+      },
+      {
+        "tag": "FISHERMEN WELFARE",
+        "text": [
+          "Reclaiming Katchatheevu, establishing a dedicated coastal guard ('Neythal Padai'), and classifying fishermen as indigenous tribes."
+        ]
+      },
+      {
+        "tag": "UNORGANIZED LABOR WELFARE",
+        "text": [
+          "Implementation of support systems and social welfare schemes for workers in the unorganized sector."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Tamil Identity & Culture",
+    "topic": "Global Tamil Affairs & Relations",
+    "spa": [
+      {
+        "tag": "SRI LANKAN TAMILS",
+        "text": [
+          "Pressing the central government to grant Indian citizenship to Sri Lankan Tamils living in the State for many years and building housing for them."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "CULTURAL DIPLOMACY",
+        "text": [
+          "Promoting Tamil Nadu's heritage as the cradle of one of the world's oldest civilisations on the national and global stage."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "TAMIL DIASPORA",
+        "text": [
+          "Promoting the ideals of Tamil identity globally and supporting the welfare and rights of the worldwide Tamil diaspora."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "EELAM TAMILS",
+        "text": [
+          "Support for the rights and sovereignty of Eelam Tamils and the recognition of their struggle."
+        ]
+      },
+      {
+        "tag": "EELAM RELATIONS",
+        "text": [
+          "Proposing long-term political and social solutions for the Tamil diaspora and diplomatic relations with Eelam."
+        ]
+      },
+      {
+        "tag": "OVERSEAS TAMILS",
+        "text": [
+          "Establishment of a ministry to manage the welfare and support of the Tamil diaspora worldwide."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Tamil Identity & Culture",
+    "topic": "Heritage, Language & Education",
+    "spa": [
+      {
+        "tag": "TAMIL LANGUAGE",
+        "text": [
+          "Hosting an International Classical Tamil Conference in Chennai with the participation of global Tamil scholars and linguists."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "HINDU HERITAGE",
+        "text": [
+          "Declaring Thaipoosam a state festival to honor Lord Murugan and ensuring the tradition of lighting the Karthigai Deepam at Thiruparankundram hilltop."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "THIRUKKURAL PRINCIPLES",
+        "text": [
+          "Basing party ideology and state administration on the principles of Thirukkural—Aram, Porul, and Inbam."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "TAMIL LANGUAGE",
+        "text": [
+          "Revitalizing the use of the Tamil language in government administration, courts, and the education system."
+        ]
+      },
+      {
+        "tag": "TAMIL EPISTEMOLOGY",
+        "text": [
+          "Promotion and preservation of traditional Tamil wisdom, philosophy, and indigenous knowledge systems."
+        ]
+      },
+      {
+        "tag": "TAMIL HERITAGE",
+        "text": [
+          "Preservation of historical monuments and documenting ancient Tamil heritage and archaeological findings."
+        ]
+      },
+      {
+        "tag": "TAMIL REPOSITORY",
+        "text": [
+          "Establishing a centralized digital and physical repository for the preservation of Tamil culture and history."
+        ]
+      }
+    ]
+  },
+  {
+    "sector": "Tamil Identity & Culture",
+    "topic": "Arts & Media Development",
+    "spa": [
+      {
+        "tag": "CULTURAL PRESERVATION",
+        "text": [
+          "Significant renovations of historic temples across the state to preserve cultural and architectural heritage."
+        ]
+      }
+    ],
+    "nda": [
+      {
+        "tag": "TRADITION & MEDIA",
+        "text": [
+          "Protecting religious and cultural traditions while calling for unbiased media coverage of state developmental issues."
+        ]
+      }
+    ],
+    "tvk": [
+      {
+        "tag": "DIGITAL ARTS & AI",
+        "text": [
+          "Focusing on modernizing the state's media and technological landscape through dedicated AI universities and technology hubs."
+        ]
+      }
+    ],
+    "ntk": [
+      {
+        "tag": "CINEMA DEVELOPMENT",
+        "text": [
+          "Supporting the Tamil film industry and protecting the intellectual and labor rights of artists."
+        ]
+      },
+      {
+        "tag": "ART & CULTURE",
+        "text": [
+          "Reviving traditional arts and folk music, and providing support for Tamil writers and poets."
+        ]
+      }
+    ]
+  }
+]

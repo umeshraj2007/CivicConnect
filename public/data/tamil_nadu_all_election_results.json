@@ -1,0 +1,217 @@
+{
+  "tamil_nadu_all_elections": [
+    {
+      "election_year": 2021,
+      "total_constituencies": 234,
+      "winning_alliance": "Secular Progressive Alliance",
+      "chief_minister_elected": "M. K. Stalin",
+      "party_results": [
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 133 },
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam", "abbreviation": "AIADMK", "seats_won": 66 },
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 18 },
+        { "party_name": "Pattali Makkal Katchi", "abbreviation": "PMK", "seats_won": 5 },
+        { "party_name": "Bharatiya Janata Party", "abbreviation": "BJP", "seats_won": 4 },
+        { "party_name": "Viduthalai Chiruthaigal Katchi", "abbreviation": "VCK", "seats_won": 4 },
+        { "party_name": "Communist Party of India", "abbreviation": "CPI", "seats_won": 2 },
+        { "party_name": "Communist Party of India (Marxist)", "abbreviation": "CPI(M)", "seats_won": 2 }
+      ]
+    },
+    {
+      "election_year": 2016,
+      "total_constituencies": 234,
+      "winning_alliance": "AIADMK Alliance",
+      "chief_minister_elected": "J. Jayalalithaa",
+      "party_results": [
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam", "abbreviation": "AIADMK", "seats_won": 136 },
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 89 },
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 8 },
+        { "party_name": "Indian Union Muslim League", "abbreviation": "IUML", "seats_won": 1 }
+      ]
+    },
+    {
+      "election_year": 2011,
+      "total_constituencies": 234,
+      "winning_alliance": "AIADMK Alliance",
+      "chief_minister_elected": "J. Jayalalithaa",
+      "party_results": [
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam", "abbreviation": "AIADMK", "seats_won": 150 },
+        { "party_name": "Desiya Murpokku Dravida Kazhagam", "abbreviation": "DMDK", "seats_won": 29 },
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 23 },
+        { "party_name": "Communist Party of India (Marxist)", "abbreviation": "CPI(M)", "seats_won": 10 },
+        { "party_name": "Communist Party of India", "abbreviation": "CPI", "seats_won": 9 },
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 5 },
+        { "party_name": "Pattali Makkal Katchi", "abbreviation": "PMK", "seats_won": 3 },
+        { "party_name": "Manithaneya Makkal Katchi", "abbreviation": "MMK", "seats_won": 2 },
+        { "party_name": "Puthiya Tamilagam", "abbreviation": "PT", "seats_won": 2 },
+        { "party_name": "All India Forward Bloc", "abbreviation": "AIFB", "seats_won": 1 }
+      ]
+    },
+    {
+      "election_year": 2006,
+      "total_constituencies": 234,
+      "winning_alliance": "Democratic Progressive Alliance",
+      "chief_minister_elected": "M. Karunanidhi",
+      "party_results": [
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 96 },
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam", "abbreviation": "AIADMK", "seats_won": 61 },
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 34 },
+        { "party_name": "Pattali Makkal Katchi", "abbreviation": "PMK", "seats_won": 18 },
+        { "party_name": "Communist Party of India (Marxist)", "abbreviation": "CPI(M)", "seats_won": 9 },
+        { "party_name": "Communist Party of India", "abbreviation": "CPI", "seats_won": 6 },
+        { "party_name": "Marumalarchi Dravida Munnetra Kazhagam", "abbreviation": "MDMK", "seats_won": 6 },
+        { "party_name": "Viduthalai Chiruthaigal Katchi", "abbreviation": "VCK", "seats_won": 2 }
+      ]
+    },
+    {
+      "election_year": 2001,
+      "total_constituencies": 234,
+      "winning_alliance": "Secular Democratic Alliance",
+      "chief_minister_elected": "J. Jayalalithaa / O. Panneerselvam",
+      "party_results": [
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam", "abbreviation": "AIADMK", "seats_won": 132 },
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 31 },
+        { "party_name": "Tamil Maanila Congress", "abbreviation": "TMC(M)", "seats_won": 23 },
+        { "party_name": "Pattali Makkal Katchi", "abbreviation": "PMK", "seats_won": 20 },
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 7 },
+        { "party_name": "Communist Party of India (Marxist)", "abbreviation": "CPI(M)", "seats_won": 6 },
+        { "party_name": "Communist Party of India", "abbreviation": "CPI", "seats_won": 5 }
+      ]
+    },
+    {
+      "election_year": 1996,
+      "total_constituencies": 234,
+      "winning_alliance": "DMK-TMC Alliance",
+      "chief_minister_elected": "M. Karunanidhi",
+      "party_results": [
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 173 },
+        { "party_name": "Tamil Maanila Congress", "abbreviation": "TMC(M)", "seats_won": 39 },
+        { "party_name": "Communist Party of India", "abbreviation": "CPI", "seats_won": 8 },
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam", "abbreviation": "AIADMK", "seats_won": 4 }
+      ]
+    },
+    {
+      "election_year": 1991,
+      "total_constituencies": 234,
+      "winning_alliance": "AIADMK-INC Alliance",
+      "chief_minister_elected": "J. Jayalalithaa",
+      "party_results": [
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam", "abbreviation": "AIADMK", "seats_won": 164 },
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 60 },
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 2 }
+      ]
+    },
+    {
+      "election_year": 1989,
+      "total_constituencies": 234,
+      "winning_alliance": "DMK Alliance",
+      "chief_minister_elected": "M. Karunanidhi",
+      "party_results": [
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 150 },
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam (Jayalalithaa Faction)", "abbreviation": "AIADMK(J)", "seats_won": 27 },
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 26 },
+        { "party_name": "Communist Party of India (Marxist)", "abbreviation": "CPI(M)", "seats_won": 15 },
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam (Janaki Faction)", "abbreviation": "AIADMK(JA)", "seats_won": 2 }
+      ]
+    },
+    {
+      "election_year": 1984,
+      "total_constituencies": 234,
+      "winning_alliance": "AIADMK-INC Alliance",
+      "chief_minister_elected": "M. G. Ramachandran",
+      "party_results": [
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam", "abbreviation": "AIADMK", "seats_won": 132 },
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 61 },
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 24 },
+        { "party_name": "Communist Party of India (Marxist)", "abbreviation": "CPI(M)", "seats_won": 5 }
+      ]
+    },
+    {
+      "election_year": 1980,
+      "total_constituencies": 234,
+      "winning_alliance": "AIADMK Alliance",
+      "chief_minister_elected": "M. G. Ramachandran",
+      "party_results": [
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam", "abbreviation": "AIADMK", "seats_won": 129 },
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 37 },
+        { "party_name": "Indian National Congress (I)", "abbreviation": "INC(I)", "seats_won": 31 },
+        { "party_name": "Communist Party of India (Marxist)", "abbreviation": "CPI(M)", "seats_won": 11 }
+      ]
+    },
+    {
+      "election_year": 1977,
+      "total_constituencies": 234,
+      "winning_alliance": "AIADMK",
+      "chief_minister_elected": "M. G. Ramachandran",
+      "party_results": [
+        { "party_name": "All India Anna Dravida Munnetra Kazhagam", "abbreviation": "AIADMK", "seats_won": 130 },
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 48 },
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 27 },
+        { "party_name": "Communist Party of India (Marxist)", "abbreviation": "CPI(M)", "seats_won": 12 },
+        { "party_name": "Janata Party", "abbreviation": "JP", "seats_won": 10 }
+      ]
+    },
+    {
+      "election_year": 1971,
+      "total_constituencies": 234,
+      "winning_alliance": "DMK Alliance",
+      "chief_minister_elected": "M. Karunanidhi",
+      "party_results": [
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 184 },
+        { "party_name": "Indian National Congress (Organisation)", "abbreviation": "INC(O)", "seats_won": 15 },
+        { "party_name": "Communist Party of India", "abbreviation": "CPI", "seats_won": 8 },
+        { "party_name": "Forward Bloc", "abbreviation": "FB", "seats_won": 7 }
+      ]
+    },
+    {
+      "election_year": 1967,
+      "total_constituencies": 234,
+      "winning_alliance": "United Front (led by DMK)",
+      "chief_minister_elected": "C. N. Annadurai",
+      "party_results": [
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 137 },
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 51 },
+        { "party_name": "Swatantra Party", "abbreviation": "SWA", "seats_won": 20 },
+        { "party_name": "Communist Party of India (Marxist)", "abbreviation": "CPI(M)", "seats_won": 11 }
+      ]
+    },
+    {
+      "election_year": 1962,
+      "total_constituencies": 206,
+      "winning_alliance": "INC",
+      "chief_minister_elected": "K. Kamaraj",
+      "party_results": [
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 139 },
+        { "party_name": "Dravida Munnetra Kazhagam", "abbreviation": "DMK", "seats_won": 50 },
+        { "party_name": "Swatantra Party", "abbreviation": "SWA", "seats_won": 6 },
+        { "party_name": "Communist Party of India", "abbreviation": "CPI", "seats_won": 2 }
+      ],
+      "notes": "Madras State (before borders were completely finalized as modern Tamil Nadu)"
+    },
+    {
+      "election_year": 1957,
+      "total_constituencies": 205,
+      "winning_alliance": "INC",
+      "chief_minister_elected": "K. Kamaraj",
+      "party_results": [
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 151 },
+        { "party_name": "Independents (Included DMK candidates)", "abbreviation": "IND", "seats_won": 32 },
+        { "party_name": "Communist Party of India", "abbreviation": "CPI", "seats_won": 4 },
+        { "party_name": "Praja Socialist Party", "abbreviation": "PSP", "seats_won": 2 }
+      ],
+      "notes": "DMK was not officially recognized by the Election Commission, so their 15 winning candidates were classified as Independents."
+    },
+    {
+      "election_year": 1952,
+      "total_constituencies": 375,
+      "winning_alliance": "INC",
+      "chief_minister_elected": "C. Rajagopalachari",
+      "party_results": [
+        { "party_name": "Indian National Congress", "abbreviation": "INC", "seats_won": 152 },
+        { "party_name": "Communist Party of India", "abbreviation": "CPI", "seats_won": 62 },
+        { "party_name": "Kisan Mazdoor Praja Party", "abbreviation": "KMPP", "seats_won": 35 },
+        { "party_name": "Tamil Nadu Toilers' Party", "abbreviation": "TNT", "seats_won": 19 }
+      ],
+      "notes": "This election was for the massive undivided Madras State, which included parts of present-day Andhra Pradesh, Kerala, and Karnataka."
+    }
+  ]
+}
